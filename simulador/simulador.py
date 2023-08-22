@@ -11,18 +11,7 @@ def main():
     
     app= Frame(root = root)
     
-    # titulo_label = tk.Label(frame, 
-    #                         text='Simulador para la estimacion de  la duracion de un proyecto: SIMU-PERT',
-    #                         bg="#6b68ff",
-    #                         fg="white",
-    #                         font=("Helvetica", 16))
-    # titulo_label.pack(pady=20)
-    
-    # imagen = tk.PhotoImage(file='img/img-inicio.jpeg')
-    # imagen_label = tk.Label(frame, image=imagen, bg="#6b68ff")
-    # imagen_label.pack()
-    
-    
+   
     
     
     app.mainloop() #final ejecucion
